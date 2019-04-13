@@ -1,0 +1,85 @@
+/* Nav Bar */
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+.About {
+    color: #404040;
+    float: left;
+    padding: 8px;
+}
+.Store {
+    color: #404040;
+    float: left;
+    padding: 8px;
+}
+.Gmail {
+    color: #404040;
+    float: right;
+    padding: 8px;
+}
+.Images {
+    color: #404040;
+    float: right;
+    padding: 8px;
+}
+/* Center */
+#logo {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-top: 112px;
+    padding-bottom: 20px;
+}
+form {
+    text-align: center;
+}
+.search {
+    width: 450px;
+    line-height: 32px;
+    border-radius: 30px;
+}
+.buttons {
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 300px;
+    border: 5px 5px 5px 5px;
+}
+/* Footer */
+footer {
+    background-color: #d3d3d3;
+    border-top: solid 1px;
+    bottom: 0;
+    Height: 35px;
+    position: absolute;
+    width: 100%;
+}
+.Advertsing {
+    color: #404040;
+    float: left;
+    padding: 8px;
+}
+.Business {
+    color: #404040;
+    float: left;
+    padding: 8px;
+}
+.Privacy {
+    color: #404040;
+    float: right;
+    padding: 8px
+}
+.Settings {
+    color: #404040;
+    float: right;
+    padding: 8px;
+}
+.Terms {
+    color: #404040;
+    float: right;
+    padding: 8px;
+}
